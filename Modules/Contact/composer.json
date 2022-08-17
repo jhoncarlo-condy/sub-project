@@ -1,0 +1,24 @@
+{
+    "name": "cxndy/contact-module",
+    "description": "contact module for laravel apps",
+    "authors": [
+        {
+            "name": "Jhon Carlo Condy",
+            "email": "jhoncarlo.condy@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Contact\\": ""
+        }
+    },
+    "type" : "laravel-module"
+}
