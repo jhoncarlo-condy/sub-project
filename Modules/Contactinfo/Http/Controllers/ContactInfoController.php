@@ -24,7 +24,7 @@ class ContactInfoController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        //sss
     }
 
     /**
