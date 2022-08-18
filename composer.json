@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "cxndy/contact-module": "@dev",
+        "cxndy/contact-module": "dev-develop",
         "guzzlehttp/guzzle": "^7.2",
         "joshbrw/laravel-module-installer": "^2.0",
         "laravel/framework": "^9.19",

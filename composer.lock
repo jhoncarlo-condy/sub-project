@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "84304a43844d413ca2ad87d114dfe3bd",
+    "content-hash": "8b0e9c4b2c0c511618d17b855ed8084e",
     "packages": [
         {
             "name": "brick/math",
@@ -64,19 +64,18 @@
         },
         {
             "name": "cxndy/contact-module",
-            "version": "dev-master",
+            "version": "dev-develop",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jhoncarlo-condy/contact-module.git",
-                "reference": "92802a3ea355664ba9ee014a176edf87bae08b33"
+                "reference": "deb3939893cc2e3905bddcefadf9a0c6e791c012"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jhoncarlo-condy/contact-module/zipball/92802a3ea355664ba9ee014a176edf87bae08b33",
-                "reference": "92802a3ea355664ba9ee014a176edf87bae08b33",
+                "url": "https://api.github.com/repos/jhoncarlo-condy/contact-module/zipball/deb3939893cc2e3905bddcefadf9a0c6e791c012",
+                "reference": "deb3939893cc2e3905bddcefadf9a0c6e791c012",
                 "shasum": ""
             },
-            "default-branch": true,
             "type": "laravel-module",
             "extra": {
                 "laravel": {
@@ -99,9 +98,9 @@
             "description": "contact module for laravel apps",
             "support": {
                 "issues": "https://github.com/jhoncarlo-condy/contact-module/issues",
-                "source": "https://github.com/jhoncarlo-condy/contact-module/tree/master"
+                "source": "https://github.com/jhoncarlo-condy/contact-module/tree/develop"
             },
-            "time": "2022-08-17T17:18:45+00:00"
+            "time": "2022-08-17T17:28:34+00:00"
         },
         {
             "name": "dflydev/dot-access-data",
