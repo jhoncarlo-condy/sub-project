@@ -68,13 +68,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jhoncarlo-condy/contact-module.git",
-                "reference": "deb3939893cc2e3905bddcefadf9a0c6e791c012"
+                "reference": "8d745c7de70dad0910d0eb3e8ce7c2d31189ac3b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jhoncarlo-condy/contact-module/zipball/deb3939893cc2e3905bddcefadf9a0c6e791c012",
-                "reference": "deb3939893cc2e3905bddcefadf9a0c6e791c012",
+                "url": "https://api.github.com/repos/jhoncarlo-condy/contact-module/zipball/8d745c7de70dad0910d0eb3e8ce7c2d31189ac3b",
+                "reference": "8d745c7de70dad0910d0eb3e8ce7c2d31189ac3b",
                 "shasum": ""
+            },
+            "require": {
+                "cxndy/contactinfo-module": "dev-master"
             },
             "type": "laravel-module",
             "extra": {
@@ -100,7 +103,48 @@
                 "issues": "https://github.com/jhoncarlo-condy/contact-module/issues",
                 "source": "https://github.com/jhoncarlo-condy/contact-module/tree/develop"
             },
-            "time": "2022-08-17T17:28:34+00:00"
+            "time": "2022-08-18T13:08:45+00:00"
+        },
+        {
+            "name": "cxndy/contactinfo-module",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jhoncarlo-condy/contactinfo-module.git",
+                "reference": "beaa91b4fe39a37b663063d0cc7364efd8057ea0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jhoncarlo-condy/contactinfo-module/zipball/beaa91b4fe39a37b663063d0cc7364efd8057ea0",
+                "reference": "beaa91b4fe39a37b663063d0cc7364efd8057ea0",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "laravel-module",
+            "extra": {
+                "laravel": {
+                    "providers": [],
+                    "aliases": []
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Modules\\ContactInfo\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Jhon Carlo Condy",
+                    "email": "jhoncarlo.condy@gmail.com"
+                }
+            ],
+            "description": "Contact Info Laravel Module for Apps",
+            "support": {
+                "issues": "https://github.com/jhoncarlo-condy/contactinfo-module/issues",
+                "source": "https://github.com/jhoncarlo-condy/contactinfo-module/tree/master"
+            },
+            "time": "2022-08-18T13:08:33+00:00"
         },
         {
             "name": "dflydev/dot-access-data",

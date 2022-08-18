@@ -1,6 +1,6 @@
 {
-    "name": "cxndy/contact-module",
-    "description": "contact module for laravel apps",
+    "name": "cxndy/contactinfo-module",
+    "description": "Contact Info Laravel Module for Apps",
     "authors": [
         {
             "name": "Jhon Carlo Condy",
@@ -17,11 +17,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Modules\\Contact\\": ""
+            "Modules\\ContactInfo\\": ""
         }
     },
-    "type" : "laravel-module",
-    "require": {
-        "cxndy/contactinfo-module": "dev-master"
-    }
+    "type": "laravel-module"
 }
