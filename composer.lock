@@ -68,12 +68,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jhoncarlo-condy/contact-module.git",
-                "reference": "22308e50d230d2d15f47d9cca1071cdd0fbc6428"
+                "reference": "ecca034dbccd7b7213965af2c7f3a6099177dc54"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jhoncarlo-condy/contact-module/zipball/22308e50d230d2d15f47d9cca1071cdd0fbc6428",
-                "reference": "22308e50d230d2d15f47d9cca1071cdd0fbc6428",
+                "url": "https://api.github.com/repos/jhoncarlo-condy/contact-module/zipball/ecca034dbccd7b7213965af2c7f3a6099177dc54",
+                "reference": "ecca034dbccd7b7213965af2c7f3a6099177dc54",
                 "shasum": ""
             },
             "require": {
@@ -103,7 +103,7 @@
                 "issues": "https://github.com/jhoncarlo-condy/contact-module/issues",
                 "source": "https://github.com/jhoncarlo-condy/contact-module/tree/develop"
             },
-            "time": "2022-08-18T15:30:27+00:00"
+            "time": "2022-08-18T15:43:50+00:00"
         },
         {
             "name": "cxndy/contactinfo-module",
